@@ -1,5 +1,4 @@
 // Caleb Lynds-Martin
-// 20796850
 
 let obj = [
 
